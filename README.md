@@ -1,5 +1,6 @@
 # dogdetect-cnn
 My first attempt at building a CNN with the goal of detecting dogs in 32x32 images.
+
 Project powered by TensorFlow 2.9.1
 
 Run the notebook file dogdetector.ipynb in the src directory to build and train the model.
